@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Cauã Paniagua
 
-- 🔭 Atualmente faço faculdade na área de Ciências da Computação (Quarto Semestre)
-- 🌱 Estudando Desenvolvimento Web (HTML/CSS/JavaScript)
+- 🔭 Atualmente faço faculdade na área de Ciências da Computação (Sétimo Semestre)
+- 🌱 Estudando Análise de Dados (Python)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="150cm" src="https://github-readme-stats.vercel.app/api?username=paniaguacaua&show_icons=true&theme=dark" />
