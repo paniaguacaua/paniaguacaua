@@ -16,8 +16,6 @@
   <a href="https://discord.com/invite/cLsP#4546" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=paniaguacaua&style=for-the-badge&color=6366f1&label=Visitas"/>
 </div>
 
 <br/>
