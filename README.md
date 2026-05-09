@@ -55,11 +55,23 @@ Estudante de **Ciência da Computação** no 7º semestre, apaixonado por transf
 
 <br/>
 
+## Projetos
+
+<div align="center">
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| [FinançasPro](https://finnpro-nu.vercel.app/) | Plataforma de gestão financeira pessoal com dashboard, controle de gastos, investimentos e relatórios | ✅ Concluído |
+| [AlugApp](https://alugapp.vercel.app/) | Aplicação desenvolvida para a faculdade | 🚧 Em andamento |
+
+</div>
+
+<br/>
+
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paniaguacaua&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paniaguacaua&layout=compact&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&langs_count=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=paniaguacaua&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=10"/>
 </div>
 
 <br/>
