@@ -1,16 +1,75 @@
-## Olá! Eu sou o Cauã Paniagua
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Cauã%20Paniagua&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ciência%20da%20Computação%20%7C%20Análise%20de%20Dados&descAlignY=58&descSize=18&descColor=c7d2fe" width="100%"/>
+</div>
 
-- 🔭 Atualmente faço faculdade na área de Ciências da Computação (Sétimo Semestre)
-- 🌱 Estudando Análise de Dados (Python)
+<br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150cm" src="https://github-readme-stats.vercel.app/api?username=paniaguacaua&show_icons=true&theme=dark" />
-</a><br><br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/paniaguacaua" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:paniaguacaua@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/invite/cLsP#4546" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=paniaguacaua&style=for-the-badge&color=6366f1&label=Visitas"/>
+</div>
 
-##    
-<p>Minhas redes sociais:</p>
-<div>
-  <a href="https://discord.com/invite/cLsP#4546" target="_black"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:paniaguacaua@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paniaguacaua" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<br/>
+
+## Olá, eu sou o Cauã 👋
+
+Estudante de **Ciência da Computação** no 7º semestre, apaixonado por transformar dados brutos em informações que fazem sentido. Atualmente focado em **Análise de Dados com Python**, buscando construir uma carreira sólida na área de dados.
+
+- 🎓 Cursando Ciência da Computação — 7º semestre
+- 📊 Estudando Análise de Dados com Python
+- 📈 Interesse em Machine Learning e visualização de dados
+- 🚀 Sempre aprendendo algo novo
+
+<br/>
+
+## Tecnologias & Ferramentas
+
+<div align="center">
+
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Dados & Análise
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br/>
+
+## Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paniaguacaua&show_icons=true&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&icon_color=6366f1&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paniaguacaua&layout=compact&theme=tokyonight&border_color=6366f1&title_color=a5b4fc&langs_count=6"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=paniaguacaua&theme=tokyonight&border=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=a5b4fc&sideLabels=a5b4fc"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
 </div>
