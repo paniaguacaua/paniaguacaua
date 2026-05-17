@@ -47,19 +47,6 @@ Estudante de **Ciência da Computação** no 7º semestre, apaixonado por transf
 
 <br/>
 
-## Projetos
-
-<div align="center">
-
-| Projeto | Descrição | Status |
-|---|---|---|
-| [FinançasPro](https://finnpro-nu.vercel.app/) | Plataforma de gestão financeira pessoal com dashboard, controle de gastos, investimentos e relatórios | ✅ Concluído |
-| [AlugApp](https://alugapp.vercel.app/) | Aplicação desenvolvida para a faculdade | 🚧 Em andamento |
-
-</div>
-
-<br/>
-
 ## Estatísticas
 
 <div align="center">
